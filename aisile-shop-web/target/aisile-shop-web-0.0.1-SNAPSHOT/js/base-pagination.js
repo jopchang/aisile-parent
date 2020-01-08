@@ -1,0 +1,1 @@
+var app = angular.moduler("myApp",["pagination"])

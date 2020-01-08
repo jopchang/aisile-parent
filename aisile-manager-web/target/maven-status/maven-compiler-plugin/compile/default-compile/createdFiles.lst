@@ -1,0 +1,6 @@
+com\aisile\manager\controller\TypeTemplateController.class
+com\aisile\manager\controller\LoginController.class
+com\aisile\manager\controller\SpecController.class
+com\aisile\manager\controller\BrandController.class
+com\aisile\manager\controller\sellerController.class
+com\aisile\manager\controller\ItemCatController.class
