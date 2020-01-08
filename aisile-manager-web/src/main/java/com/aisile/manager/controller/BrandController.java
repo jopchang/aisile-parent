@@ -22,7 +22,7 @@ public class BrandController {
 
 	@Reference
 	private BrandService brandService;
-	
+	//a
 	@RequestMapping("/serach")
 	public PageResult list(int page,int rows,@RequestBody TbBrand brand){
 		return brandService.findPage(page, rows,brand);
